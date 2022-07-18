@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment Analysis of a large-scale data set using NLP and classification models. 
+Sentiment Analysis of a large-scale data set using NLP, classification models, and Dask. 
 
 The dataset is available at https://snap.stanford.edu/data/web-FineFoods.html.
 - The dataset contains over 5 million records of review left on Amazon.com for "Fine foods". The records are formatted in JSON and encoded as cp1252.
